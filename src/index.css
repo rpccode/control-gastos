@@ -274,6 +274,8 @@ main {
     border-radius: 1rem;
     text-align: center;
     background-color: var(--gris-claro);
+    font-size: 1.5rem;
+    width: 100%
 }
 
 .listado-gastos {
